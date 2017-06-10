@@ -14,3 +14,28 @@
 
 # trade off
 Conflito guanha em alguns aspectos e perde em outros aspectos
+
+# Banco de Dados Nâo Relacionais
+
+## Graphdb
+  https://imasters.com.br/banco-de-dados/graphdb-series-o-que-e-um-banco-de-dados-de-grafos/?trace=1519021197&source=single
+
+Banco de dados NoSQL
+## MongoDB
+  https://www.mongodb.com/
+  
+## XBase
+  https://pt.wikipedia.org/wiki/XBase
+  
+## Cassandra
+  http://cassandra.apache.org/
+    
+## Redis
+  https://redis.io/
+  
+## Riak
+  http://basho.com/products/
+  https://en.wikipedia.org/wiki/Riak
+  
+## Graph
+  https://en.wikipedia.org/wiki/Graph_database
