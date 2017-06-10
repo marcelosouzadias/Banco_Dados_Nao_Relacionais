@@ -1,9 +1,7 @@
 # Desenvolver uma interface para acessar os dados do Twitter
 
 ## Link Interessantes
-
 - https://pythonhelp.wordpress.com/2014/09/07/acessando-a-api-rest-do-twitter/
-
 - https://dev.twitter.com/resources/twitter-libraries
 
 ## Conceitos
@@ -12,30 +10,30 @@
 - https://pt.wikipedia.org/wiki/MongoDB
 - http://www.cs.waikato.ac.nz/ml/weka/
 
-# trade off
+## Trade off
 Conflito guanha em alguns aspectos e perde em outros aspectos
 
-# Banco de Dados Nâo Relacionais
+## Banco de Dados Nâo Relacionais
 
-## Graphdb
+# Graphdb
   https://imasters.com.br/banco-de-dados/graphdb-series-o-que-e-um-banco-de-dados-de-grafos/?trace=1519021197&source=single
 
-Banco de dados NoSQL
-## MongoDB
+## Banco de dados NoSQL
+# MongoDB
   https://www.mongodb.com/
   
-## XBase
+# XBase
   https://pt.wikipedia.org/wiki/XBase
   
-## Cassandra
+# Cassandra
   http://cassandra.apache.org/
     
-## Redis
+# Redis
   https://redis.io/
   
-## Riak
+# Riak
   http://basho.com/products/
   https://en.wikipedia.org/wiki/Riak
   
-## Graph
+# Graph
   https://en.wikipedia.org/wiki/Graph_database
